@@ -1,0 +1,37 @@
+========================================
+       CAMPUS QUICKASSIST
+  Smart Student Support System
+========================================
+
+1. Register a student problem
+2. View priority guidelines
+3. Exit
+
+Enter your choice: 1
+
+Enter student name: emma
+Select problem category:
+1. Academic
+2. Technical
+3. Administrative
+4. Other
+
+Enter category choice: 2
+Enter urgency level (1-5): 5
+Is the deadline today? (Yes/No): Yes
+Does this issue affect multiple students? (Yes/No): No
+
+----------------------------------------
+           SUPPORT TICKET
+----------------------------------------
+Student Name: sarah
+Category: Technical
+Urgency: 5
+Deadline Today: Yes
+Multiple Students Affected: No
+Priority: HIGH
+----------------------------------------
+
+Would you like to register another request? Yes/No: No
+
+Thank you for using Campus QuickAssist!
